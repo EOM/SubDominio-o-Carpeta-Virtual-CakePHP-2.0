@@ -4,3 +4,12 @@
 2012-01-27 00:58:55 Error: [MissingControllerException] Controller class SubdominiosController could not be found.
 #0 C:\www\lab-url\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2012-01-28 00:20:18 Error: [MissingControllerException] Controller class Error404Controller could not be found.
+#0 C:\www\lab-url\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-01-28 00:21:00 Error: [MissingControllerException] Controller class Error404Controller could not be found.
+#0 C:\www\lab-url\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-01-28 00:21:06 Error: [MissingControllerException] Controller class Controller could not be found.
+#0 C:\www\lab-url\app\webroot\index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
